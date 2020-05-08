@@ -1,5 +1,5 @@
-require_relative 'question'
-require_relative 'inclination'
+require_relative 'lib/question'
+require_relative 'lib/inclination'
 
 # Константа, хранящая количество задаваемых вопросов
 
